@@ -1,5 +1,43 @@
+# Build Results
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$RECYCLE.BIN/
+
+# Compiled DLLs
+*.dll
+*.exe
+*.pdb
+*.app
+*.lib
+*.so
+*.dylib
+*.nupkg
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider/JetBrains files
+.idea/
+*.sln.iml
+
+# DotNet compile time
+*.nuget/
+*.cache/
